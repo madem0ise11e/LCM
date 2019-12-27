@@ -11,5 +11,5 @@ int main(){
   lcm = (n1 * n2) / gcd;
 
   printf("The LCM of two numbers %d and %d is %d.", n1, n2, lcm);
-  rerun 0;
+  return 0;
 }
